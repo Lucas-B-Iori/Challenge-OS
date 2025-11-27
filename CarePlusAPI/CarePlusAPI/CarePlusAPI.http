@@ -1,0 +1,6 @@
+@CarePlusAPI_HostAddress = http://localhost:5123
+
+GET {{CarePlusAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
