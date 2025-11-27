@@ -53,7 +53,8 @@ O projeto foi desenhado para gerar evidências claras de monitoramento:
 
 ## 🎬 Evidência em Vídeo
 
-O vídeo demonstrativo (`Video_Entrega_OS.mp4` ou link) encontra-se neste repositório. Ele demonstra:
+link youtube (caso de erro no arquivo .mp4): https://youtu.be/mGjtxALsFwM
+O vídeo demonstrativo (`Video_Entrega_OS.mp4`) encontra-se neste repositório. Ele demonstra:
 1.  O recurso IIS ativado no Windows.
 2.  A execução da API.
 3.  A geração simultânea dos dois tipos de logs citados acima.
